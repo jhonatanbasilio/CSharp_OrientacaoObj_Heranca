@@ -1,0 +1,7 @@
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\bin\Debug\ByteBank.exe
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\bin\Debug\ByteBank.pdb
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\obj\Debug\ByteBank.exe
+C:\Code\CSharp\CSharp_OrientacaoObj_Heranca\ByteBank\obj\Debug\ByteBank.pdb
